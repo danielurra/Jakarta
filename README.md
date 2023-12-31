@@ -1,5 +1,5 @@
 # Jakarta
-Just a few useful notes about Jakarta
+## Just a few useful notes about Jakarta
 As you probably know `Java Enterprise Edition (Java EE)`, was recently transferred from **Oracle** to the **Eclipse Software Foundation**<br>
 and renamed to `Jakarta` but widely referred to by the previous name (and occasionally by its very old name, “J2EE,” which was retired in 2005).<br>
 Java EE provides scalability and support for building well-structured, multitiered distributed applications.<br>
