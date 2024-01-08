@@ -9,4 +9,4 @@ EE also provides two web view technologies:
 * The original JSP (JavaServer Pages) 
 * And the newer, component-based JSF (JavaServer Faces). <br>
 
-Finally, Java EE provides a number of other network-based services, including EJB3 remote access and Java Messaging Service (JMS).
+Finally, **Java EE** provides a number of other network-based services, including EJB3 remote access and Java Messaging Service (JMS).
